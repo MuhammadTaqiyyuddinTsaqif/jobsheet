@@ -6,5 +6,6 @@ public class Selection120 {
         int number = input20.nextInt();
         String output = (number%2 == 0) ? number+" Is an even number!" : number+" Is an odd number!";
         System.out.println(output);
+        
     }
 }
