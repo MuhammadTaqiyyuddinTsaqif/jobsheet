@@ -16,6 +16,6 @@ public class Selection220 {
 
         String message = total < 65 ? "Retake" : "Pass";
 
-        System.out.println("Final Grade = " + total + "and t25he decission is " + message);
+        System.out.println("Final Grade = " + total + " and the decission is " + message);
     }
 }
